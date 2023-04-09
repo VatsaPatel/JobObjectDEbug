@@ -1,0 +1,12 @@
+C:\work\Test\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\work\Test\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\work\Test\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\work\Test\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\work\Test\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\work\Test\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\work\Test\ConsoleApp2\ConsoleApp2\bin\Debug\System.Runtime.dll
+C:\work\Test\ConsoleApp2\ConsoleApp2\bin\Debug\System.ValueTuple.dll
+C:\work\Test\ConsoleApp2\ConsoleApp2\bin\Debug\System.ValueTuple.xml
+C:\work\Test\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\work\Test\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\work\Test\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
